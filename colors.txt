@@ -1,5 +1,5 @@
 red
-blue
+gray
 orange
 green
 white
